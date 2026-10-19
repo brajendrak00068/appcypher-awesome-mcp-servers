@@ -378,6 +378,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+- <img src="https://cdn.simpleicons.org/typescript/007ACC" height="14"/> [Levea AI Video Editor](https://github.com/brajendrak00068/agentic-ai-video-production) - Autonomous AI video editor MCP server (`levea-mcp-server`) for natural-language video editing: viral clips, 114+ animated caption templates, 9:16 vertical reframing, silence removal, B-roll, motion graphics, multicam sync, and cloud MP4 export
+
 ## 💻 <a name="development-tools"></a>Development Tools
 
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
